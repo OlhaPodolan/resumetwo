@@ -102,7 +102,6 @@ a:hover {
 /* ************MAIN************ */
 .main {
     background: url(./img/2.jpg) center / cover;
-    width: 60%;
 }
 .main .text {
     display: flex;
@@ -110,6 +109,7 @@ a:hover {
     text-align: centeter;
     padding: 65px 97px 11px 97px;
     color: bisque;
+    max-width: 500px;
 }
 
 .main p,
